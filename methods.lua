@@ -61,7 +61,7 @@ MainWindow
     color: white
 
 ]], g_ui.getRootWidget())
-
+methods.ui:hide();
 methods.entry = [[
 Label
   text-align: left
