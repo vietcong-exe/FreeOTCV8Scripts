@@ -6,6 +6,9 @@ local methods = {
         ["thing"] = modules._G.Thing,
         ["player"] = modules._G.Player,
         ["creature"] = modules._G.Creature,
+        ["map"] = modules._G.Map,
+        ["game"] = modules._G.Game,
+        ["outfit"] = modules._G.Outfit,
     },
 };
 methods.ui = setupUI([[
